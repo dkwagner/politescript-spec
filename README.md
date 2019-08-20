@@ -34,3 +34,8 @@ truly understanding the whole process, knowledge, not performance is the goal he
 ### Development Language
 Kotlin will be employed in the creation of the PoliteScript parser and lexer. Kotlin was selected due to its ease of
 development. It was also selected due to a desire to learn the Kotlin programming language. 
+
+### Overall goals
+The hope is to create a programming language that makes it not only easy to show others how they can create their own
+language, but make it humorous and engaging enough that developers can come to appreciate and understand how the design of a
+programming language can make it easy (or difficult) to use.
